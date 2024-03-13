@@ -59,4 +59,4 @@ Here is the default configuration:
 
 ---
 
-Amir Farzamnia made GitHub Handler with ❤️ under the [MIT](LICENSE) license.
+Amir Farzamnia made GitHub Handler with ❤️ under the [MIT](./LICENSE) license.
